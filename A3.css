@@ -1,0 +1,46 @@
+#one{
+    border:5px solid #f09ead;
+    color:red;
+    padding-right:40px;
+    
+}
+#two{
+    border:5px solid #eda8e7;
+    background-color:#eeee9f
+}
+h1{
+    text-decoration:underline;
+    color:red;
+    text-align:center;
+}
+input[type="password"]{
+    color:skyblue;
+    border-left-color:green;
+    border-right-color:#aed69f;
+    border-bottom-color:red;
+    border-top-color:#feaf00;
+    border-width:5px;
+    border-style:solid;
+    border-radius:24px;
+}
+input[type="text"]{
+    color:coral;
+    border-left-color:green;
+    border-right-color:#aed69f;
+    border-bottom-color:red;
+    border-top-color:#feaf00;
+    border-width:5px;
+    border-style:solid;
+    border-radius:24px;
+  
+    }
+input[type="number"]{
+    color:#f000de;
+    border-left-color:green;
+    border-right-color:#aed69f;
+    border-bottom-color:red;
+    border-top-color:#feaf00;
+    border-width:5px;
+    border-style:solid;
+    border-radius:24px;   
+}
